@@ -1,0 +1,16 @@
+stick_num_fact = 'Numéro de facture : '
+stick_livrer_a = 'Livrer à : '
+stick_facturer_a = 'Facturer à : '
+stick_fourn = 'Fournisseur : '
+stick_client = 'Numéro de client : '
+stick_transport = 'Transport : '
+stick_date_requise = 'Date requise : '
+stick_acheteur = 'Acheteur : '
+stick_signature = 'Signature :'
+stick_exp = "Date d'expédition : "
+stick_commande = 'Date : '
+stick_num_recl = 'Numéro de réclamation : '
+stick_note = "Note : "
+width_bdc = 35
+width_bde = 25
+width_bdr = 40
